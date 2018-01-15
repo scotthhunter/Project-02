@@ -8,7 +8,7 @@
 + Users can input their current weight and based on user's weight, an exercise plan will be provided.
 
 
-+ An estimated timeline will be given to user of how much weight will be lost based on calorie inputs.
++ An estimated timeline will be given to user of how much weight will be lost based on their excersise output or food choices.
 
 #### Assignment
 This application is a group project for [GA Tech's Coding Boot Camp](https://codingbootcamp.pe.gatech.edu/), Full-Time Fall 2017 Cohort. Collaborators include: [Brian Peace](https://www.github.com/bpeace71), [Corey Sullivan](https://www.github.com/co-su), Scott Hunter, and [Keli Chau](https://www.github.com/kelichau).
