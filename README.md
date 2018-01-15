@@ -1,4 +1,4 @@
-# Untitled Project 02
+# WeightWatching APP 02
 
 ## Overview
 
